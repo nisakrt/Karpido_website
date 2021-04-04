@@ -1,1 +1,148 @@
+.Kont { 
+	margin-top: 15px;
+	height:800px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+} 
+/* Info window size (optional) */ 
+.gomapMarker { 
+    display: block; 
+    width: 150px; 
+    height: auto; 
+} 
+.navbar {
+	border-radius: 0px;
+  padding-bottom: 0px;
+	background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	background-repeat: repeat;
+}
+.navbar-brand{
+	color: #777;
+}
 
+nav{
+  padding-bottom: 0px;
+}
+
+
+li>a{color: #777;}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size : 140%;
+}
+
+th{
+			color: white;
+			background-color: #1abc9c;
+		}
+.baslik{
+
+}
+
+
+div.DTTT { margin-bottom: 0.5em; float: right; }
+div.dataTables_wrapper { clear: both; }
+div.dataTables_filter {
+		text-align: left;
+}
+
+#butonlar{
+	text-align: center;
+}
+
+#tablo{
+	width: 100%;
+
+}
+.img-fluid{
+	max-width: 80%;
+	margin-bottom: 5%;
+}
+
+.Konteynır { 
+	margin-top: 15px;
+	height:600px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+} 
+
+.MirasKonteynır { 
+	margin-top: 15px;
+	height:auto;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+} 
+footer{
+   	  position:fixed;
+   	  bottom:0
+      padding: 10px 20px;
+      background: #666;
+      color: white;
+      }
+
+#altfooter {
+   bottom:0;
+   width:100%;
+   height:30px;   /* footer yüksekliği */
+   background:#666;
+   text-align:center;
+}
+
+
+.dosya{
+  font: 300 14px  sans-serif;
+  background: #778899 ;
+  border: 0;
+  padding: 6px 25px;
+  cursor: pointer;
+  width: 400px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.index-navbar{
+  margin-bottom: 0px;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+
+}
+
+.carousel-inner{
+  height: 900px;
+}
+
+.urunler-panel{
+  background-color: #f0f0f0; 
+  height: 260px;
+}
+
+
+.urunler-icerik{
+  background-color: #f0f0f0; 
+  height: 260px;
+
+}
+.foto{
+  padding-top: 40px;
+}
+
+.right
+   {
+      float: right;
+
+      width: 100px;
+
+      background-color:#b0e0e6;
+   }
+
+/* Resmi sol tarafa almak için kullanacağımız kod */
+.sol { float:left;  padding:0 30px 0 10px;}
+/* Resmi sağ tarafa almak için kullanacağımız kod*/
+.sag { width:500px;margin:auto; text-align: justify;}
